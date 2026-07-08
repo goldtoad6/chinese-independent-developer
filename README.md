@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 8 号添加
 
+#### andytu8866(深圳) - Github
+* :white_check_mark:  [BGChanger - AI 视频背景移除与换脸](https://bgchanger.video)：在浏览器中一键替换或移除视频背景，支持高精度 AI 换脸与基础视频剪辑，无需安装客户端与绿幕。
+
 #### axuan(广州)
 * :white_check_mark: [PicText - 图片文字编辑器](https://imagetexteditor.net/)：AI 驱动的图片文本编辑器，检测并替换照片、截图和产品图中的文本，同时保留原始布局和字体
 * :white_check_mark: [Musefy - AI 音乐制作](https://music-generator.net)：将提示词转化为 AI 歌曲、歌词和背景音乐
