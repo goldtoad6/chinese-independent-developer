@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 13 号添加
 
+#### HankGuo - [Github](https://github.com/HankGuo)
+* :white_check_mark: [独立淘金地图](https://berich.aichi.food)：面向小白的赚钱路子汇总，整合一个人也能做的独立创收机会
+
 #### charles - [Github](https://github.com/charleslee8266)
 * :white_check_mark: [卡网大全 · CardNav](https://cardnav.xyz)：一站式 AI 大模型账号购买导航，聚合中转站、卡网、官方订阅比价、模型排行、使用指南和实用工具 - [更多介绍](https://github.com/charleslee8266/cardnav-web)
 
