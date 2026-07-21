@@ -25,6 +25,12 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### MarthaHuang(北京) - [Github](https://github.com/Amybiubiu)
+* :white_check_mark: [芦苇-发现好内容](https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406)：探索优质信息源，连接 RSS 订阅与内容发现 - [更多介绍](https://reeddaily.com/)
+
+#### 毛小蒙(杭州) - [Github](https://github.com/maoxiaomeng2021)
+* :white_check_mark: [diffMaster](https://diff.boyeye.com)：支持多格式的文档比对
+
 #### jaychouchannel - [Github](https://github.com/jaychouchannel)
 * :white_check_mark: [PlotCraft](https://github.com/jaychouchannel/PlotCraft)：科研人专用，用自然语言描述图表，AI 自动生成 Nature/Cell 级科研论文矢量图（SVG），支持 8 种图表模板，本地沙箱渲染
 
