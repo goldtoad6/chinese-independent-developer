@@ -25,6 +25,10 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### cobola - [Github](https://github.com/cobola)
+* :white_check_mark: [RailNet Tester](https://play.google.com/store/apps/details?id=com.xg.railnettester)：高铁移动网络质量记录仪，高速移动环境下进行 TCP 测试 + GPS 同步连续采集并形成图表
+* :white_check_mark: [0trace](https://0trace.org)：纯 P2P 浏览器端对端聊天与文件传输，无服务器中转、无需注册、打开即用 - [GitHub](https://github.com/momo2029/0trace)
+
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Voor AI](https://voor.ai)：浏览器端 AI 创作平台，支持视频、图片和音频生成、编辑与工作流协作，统一管理共享积分
 * :white_check_mark: [Krea 2 AI](https://krea2.org)：专注 Krea 2 的 AI 图片工作台，支持多种生成规格、风格探索与快速迭代
