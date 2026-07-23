@@ -25,6 +25,11 @@
 ## 3. 项目列表
 ### 2026 年 7 月 23 号添加
 
+#### slamancn - [Github](https://github.com/slamancn)
+* :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将PDF转换为Markdown，完全离线，无需上传、无文件大小限制、智能图像文字识别、快速、私密、安全，设备端处理，支持通过AirDrop共享；鸿蒙版本[PDF2MD](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
+  
+### 2026 年 7 月 23 号添加
+
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
 
