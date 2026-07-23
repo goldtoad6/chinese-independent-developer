@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 23 号添加
+
+#### yipeng-git - [Github](https://github.com/yipeng-git)
+* :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
+
 ### 2026 年 7 月 22 号添加
 
 #### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
